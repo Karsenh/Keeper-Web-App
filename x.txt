@@ -1,1 +1,0 @@
-"proxy": "https://powerful-tundra-20211.herokuapp.com/",
